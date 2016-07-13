@@ -1,0 +1,14 @@
+Julia Tan
+
+1. CAN CRASH
+- while loop does not check for whether the condition is true or false, instead sets a value
+- *p in for loop is not a condition
+
+2. 4 bytes
+Because that is the size of one char pointer.
+
+3. lines 18-24, 29-30
+
+4. Between 32 and 33: free(*p);
+14: single quotes around 0
+I'm not sure how to fix the while loop and for loop sorry
